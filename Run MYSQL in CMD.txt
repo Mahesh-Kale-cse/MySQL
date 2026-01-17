@@ -1,0 +1,4 @@
+
+Step 1 : cd C:\Program Files\MySQL\MySQL Server 9.4\bin
+
+Step 2 : mysql -u root -p
